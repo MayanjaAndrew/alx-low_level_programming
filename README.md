@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Contains ALX tasks in the C programming language
+Contains ALX tasks in C programming
