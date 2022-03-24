@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - prrints a[2] =98
- * Return: Always
- */
-
 int main(void)
 {
 	int n;
