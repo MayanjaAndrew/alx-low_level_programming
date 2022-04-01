@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "main.h"
 
 /**
  * main - multiples two numbers
@@ -8,7 +7,7 @@
  * @argv: array that contains the program command line aguments
  * Return: 0 - success.
  */
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
 	if (argc != 3)
 	{
